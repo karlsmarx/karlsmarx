@@ -14,5 +14,5 @@ As my colleagues say a lot of times:
 > Você só pode estar de brincadeira Karl
 
 #### Blog posts
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
