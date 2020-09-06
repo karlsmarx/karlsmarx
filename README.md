@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello fellow
 
-<!--
-**karlsmarx/karlsmarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Karl, Karl Marx (not a joke), a backend developer from São Paulo, Brazil. My main work now are related to NodeJS, majorly with web-based services, but i really enjoy C++ and topics related to infrastructure.
 
-Here are some ideas to get you started:
+If you want to see my for fun projects checkout the repositories. I have a website too: [karls.dev](https://karls.dev) (portuguese), with a much more professional introduction (but with some easter eggs, the console works on desktop, try roll command).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Other sources
+
+My blog: [Holistic Investigations](https://medium.com/@iho)
+
+Linkedin: [Karl Alexander](https://www.linkedin.com/in/karl-alexader/)
+
+As my colleagues say a lot of times:
+> Você só pode estar de brincadeira Karl
