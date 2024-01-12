@@ -1,8 +1,8 @@
 ### Hello fellow
 
-I'm Karl, Karl Marx (not a joke), a backend developer from São Paulo, Brazil. My main work now are related to NodeJS, majorly with web-based services, but i really enjoy C++ and topics related to infrastructure.
+I'm Karl, Karl Marx (not a joke), a backend developer from São Paulo, Brazil. My main work now is related to NodeJS, majorly with web-based services, but I really enjoy C++ and topics related to infrastructure.
 
-If you want to see my for fun projects checkout the repositories. I have a website too: [karls.dev](https://karls.dev) (portuguese), with a much more professional introduction (but with some easter eggs, the console works on desktop, try roll command).
+If you want to see my for fun projects check out the repositories. I have a website too: [karls.dev](https://karls.dev) (Portuguese), with a much more professional introduction (but with some easter eggs, the console works on desktop, try roll command).
 
 ##### Other sources
 
